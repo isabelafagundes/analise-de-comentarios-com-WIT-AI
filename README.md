@@ -19,25 +19,6 @@ Este aplicativo Flutter permite a análise de sentimentos em comentários sobre 
 - **Wit AI**: Plataforma de IA usada para a análise de sentimentos em texto.
 - **Dart**: Linguagem de programação utilizada no Flutter.
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd analise_sentimentos_wit_ai
-   ```
-3. Instale as dependências do projeto:
-   ```bash
-   flutter pub get
-   ```
-4. Execute o aplicativo:
-   ```bash
-   flutter run
-   ```
-
 ## Imagens do App
 
 ### **Intenção Positiva:**
