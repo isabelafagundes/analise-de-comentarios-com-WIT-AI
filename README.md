@@ -40,7 +40,12 @@ Este aplicativo Flutter permite a análise de sentimentos em comentários sobre 
 
 ## Imagem do App
 
+- **Intenção positiva:**
 ![App Screenshot](https://github.com/user-attachments/assets/6aa4e97c-c7b0-414d-8239-7ba9048c5fbb)
+
+- **Intenção de expectativa**
+![image](https://github.com/user-attachments/assets/dc405ca0-1cf8-4afc-a533-8f0322484609)
+
 
 
 
