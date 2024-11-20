@@ -4,7 +4,7 @@ Este aplicativo Flutter permite a análise de sentimentos em comentários sobre 
 
 ## Funcionalidades
 
-- **Análise de Sentimentos**: Envia os comentários sobre filmes para a API Wit AI e recebe a análise do sentimento (positivo, negativo ou neutro).
+- **Análise de Sentimentos**: Envia os comentários sobre filmes para a API Wit AI e recebe a análise do sentimento (positivo, negativo, expectativa ou neutro).
 - **Interface Simples e Intuitiva**: A interface do aplicativo é fácil de usar, permitindo que os usuários insiram seus comentários e vejam os resultados da análise de forma rápida e clara.
 
 ## Como Funciona
