@@ -38,22 +38,21 @@ Este aplicativo Flutter permite a análise de sentimentos em comentários sobre 
    flutter run
    ```
 
-## Imagem do App
+## Imagens do App
 
-- **Intenção positiva:**
-![App Screenshot](https://github.com/user-attachments/assets/6aa4e97c-c7b0-414d-8239-7ba9048c5fbb)
+### **Intenção Positiva:**
+  
+![Intenção Positiva](https://github.com/user-attachments/assets/6aa4e97c-c7b0-414d-8239-7ba9048c5fbb)
 
+### **Intenção de Expectativa:**
+  
+![Intenção de Expectativa](https://github.com/user-attachments/assets/dc405ca0-1cf8-4afc-a533-8f0322484609)
 
-- **Intenção de expectativa**
-![image](https://github.com/user-attachments/assets/dc405ca0-1cf8-4afc-a533-8f0322484609)
+### **Intenção Negativa:**
+  
+![Intenção Negativa](https://github.com/user-attachments/assets/655642cc-9a06-4c1d-becf-2df58c489662)
 
-
-- **Itenção negativa**
-![image](https://github.com/user-attachments/assets/655642cc-9a06-4c1d-becf-2df58c489662)
-
-
-- **Intenção neutra**
-![image](https://github.com/user-attachments/assets/5f8d991d-6d3e-4341-b47c-42ecdb62c04b)
-
-
+### **Intenção Neutra:**
+  
+![Intenção Neutra](https://github.com/user-attachments/assets/5f8d991d-6d3e-4341-b47c-42ecdb62c04b)
 
